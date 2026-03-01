@@ -23,6 +23,7 @@ git commit -m "Initial commit"
 ``` 
 ### Add new exercise
 ```bash
+mkdir -p ~/repository-name # if new repo created
 cd ~/repository-name
 mkdir <exercise-name>
 nano <exercise-name>/main.py # paste code, save (Ctrl+O, Enter), exit (Ctrl+X)
