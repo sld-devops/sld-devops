@@ -28,7 +28,7 @@ cd ~/repository-name
 mkdir <exercise-name>
 nano <exercise-name>/main.py # paste code, save (Ctrl+O, Enter), exit (Ctrl+X)
 
-git add .
+git add new-topic.md
 git commit -m "Add <exercise-name> exercise"
 git push
 ```
