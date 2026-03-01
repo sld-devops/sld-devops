@@ -25,7 +25,7 @@ git commit -m "Initial commit"
 ```bash
 cd ~/bootdev-python-exercises
 mkdir <exercise-name>
-nano <exercise-name>/main.py
+nano <exercise-name>/main.py # paste code, save (Ctrl+O, Enter), exit (Ctrl+X)
 
 git add .
 git commit -m "Add <exercise-name> exercise"
