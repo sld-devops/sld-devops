@@ -18,6 +18,7 @@ git config --global user.email "you@example.com"
 ### Start a repo locally
 ```bash
 git init
+git branch -M main
 git add .
 git commit -m "Initial commit"
 ``` 
@@ -28,7 +29,7 @@ cd ~/repository-name
 mkdir <exercise-name>
 nano <exercise-name>/main.py # paste code, save (Ctrl+O, Enter), exit (Ctrl+X)
 
-git add new-topic.md
+git add <exercise-name>
 git commit -m "Add <exercise-name> exercise"
 git push
 ```
@@ -77,4 +78,7 @@ git branch
 ### Clone an existing repo
 ```bash
 git clone https://github.com/<user>/<repo>.git
+cd repo-name
+git remote add origin git@github.com:<user>/<repo>.git
+git diff
 ```
