@@ -1,7 +1,8 @@
 # Sandis (sld-devops)
 ## About me
-Interested in Python, Linux, and Git with a focus on backend/devops fundamentals.  
-I will be publishing here my journey through Boot.dev courses, challanges and building small practice projects to improve consistency and problem-solving.
+I’m focusing on backend/devops fundamentals.
+This repo documents my journey through Boot.dev courses, challenges, and small practice projects to build consistency and problem‑solving skills.
+Current stack: Python • Linux CLI • Git/GitHub • small automation scripts
 
 **Now:** 
 • Python 
